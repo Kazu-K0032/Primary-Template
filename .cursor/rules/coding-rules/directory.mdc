@@ -1,0 +1,19 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+---
+description: Directory
+globs:
+---
+# ディレクトリ構成
+
+本プロジェクトルートは`DC_Corp_Renewal/`です。
+
+`tree -L 1`
+```
+
+```
+
+## src/components
